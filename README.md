@@ -9,3 +9,8 @@ python scripts to download music from youtube to mp3 and organize into nice fold
 > sudo apt install youtube-dl ffprobe ffmpeg
 
 ## How to use
+
+Steps:
+- Get the URL of a youtube video (or playlist) to download
+- Use the example scripts in Downloader.ipynb to download the associated mp3 file(s)
+- Use the scripts in Organizer.ipynb to modify/shorten the names of large groups of files
